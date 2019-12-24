@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonovicch/study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonovicch/study/issues"
+  },
+  "homepage": "https://github.com/antonovicch/study#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
